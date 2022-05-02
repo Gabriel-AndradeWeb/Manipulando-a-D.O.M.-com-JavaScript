@@ -1,6 +1,6 @@
 # Manipulando-a-D.O.M.-com-JavaScript
 
-Utilizando javascript para modificar estrutura em html, com intuito de de mostra ferramentas. Foi feito uma demonstração criando um site dark-mode(modo-escuro) para prática conhecimentos adquiridos.
+Utilizando javascript para modificar estrutura em html, com intuito de mostra ferramentas. Foi feito uma demonstração criando um site dark-mode(modo-escuro) para prática conhecimentos adquiridos.
 
 # Exemplo:
 
